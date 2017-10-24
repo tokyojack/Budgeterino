@@ -11,3 +11,5 @@ Now you've just install the program! You're a pretty cool person:
 1. ```(•_•)```
 2. ```( •_•)>⌐■-■```
 3. ```(⌐■_■)```
+
+```NOTE As this was part of one of my advanced JS courses, the frontend was provided while coding. I did all the backend for it.```
