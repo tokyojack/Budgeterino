@@ -1,15 +1,18 @@
-# Budgeterino
-A budget application made with JavaScripts modular architecture.
+<h2  align="center">Budgeterino</h2>
+<p  align="center">A budget application made with JavaScripts modular architecture</p>
 
-INSTRUCTIONS:
-1. CD in to a folder somewhere on your computer: ```cd <path_location>```
-2. Clone the repo: ```git clone https://github.com/tokyojack/Budeterino```
-3. And open the ```index.html``` with a web browser (such as Chrome).
-4. Bam! Now you're able to use the program.
+<br/>
 
-Now you've just install the program! You're a pretty cool person:
-1. ```(•_•)```
-2. ```( •_•)>⌐■-■```
-3. ```(⌐■_■)```
+## Installing
 
-```NOTE As this was part of one of my advanced JS courses, the frontend was provided while coding. I did all the backend for it.```
+1. Clone this repo ```git clone https://github.com/tokyojack/Budgeterino```
+2. Open the ``index.html`` with a web browser (such as Chrome)
+3. Bam! Now you're able to use it
+
+## Usage
+
+Add items by putting them the description in input, choose if it's either a addition or subtraction, then click the check mark.
+
+##
+
+Now you've just install the program! Oh boy, this is gonna make my life so much easier ```~(˘▾˘~)```
